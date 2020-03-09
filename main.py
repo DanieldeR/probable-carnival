@@ -1,1 +1,1 @@
-print("the quick red fox jumped over the lazy red dog")
+print("Today is a really warm day")
